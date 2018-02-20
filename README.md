@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A simple number guessing game made with HTML, CSS and JavaScript
+A simple number guessing game made with HTML, CSS and JavaScript.
 
 ## Instructions
 
@@ -11,18 +11,20 @@ A simple number guessing game made with HTML, CSS and JavaScript
 5. Check whether it is the correct number.
 6. If it is correct:
   - Display congratulations message.
-  - Stop the player from being able to enter more guesses.
-  - Display control allowing the player to restart the game.
+    - Stop the player from being able to enter more guesses.
+      - Display control allowing the player to restart the game.
 7. If it is wrong and the player has turns left:
   - Tell the player that they are wrong.
-  - Tell the player whether the guess was too low or too high
-  - Allow to enter another guess.
-  - Increment the turn number by 1.
+    - Tell the player whether the guess was too low or too high
+      - Allow to enter another guess.
+        - Increment the turn number by 1.
 8. If it is wrong and the player has no turns left:
   - Tell the player it is game over.
-  - Stop the player from being able to enter more guesses.
-  - Display control allowing the player to restart the game.
+    - Stop the player from being able to enter more guesses.
+      - Display control allowing the player to restart the game.
 9. Once the game restarts, reset the game logic and UI, then go back to step 1.
+
+
 
 Enjoy! :thumbsup:
 
